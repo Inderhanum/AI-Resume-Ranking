@@ -1,7 +1,7 @@
 import streamlit as st
 import pandas as pd
 import numpy as np
-import PyPDF2
+import PyPDF2 as py
 import re
 import nltk
 from nltk.corpus import stopwords
@@ -24,7 +24,7 @@ st.set_page_config(page_title="Resume Ranker", layout="wide")
 # Function to extract text from PDF
 def extract_text_from_pdf(pdf_file):
     text = ""
-    reader = PyPDF2.PdfReader(pdf_file)
+    reader = py.PdfReader(pdf_file)
     for page in reader.pages:
         text += page.extract_text() + "\n"
     return text
