@@ -57,9 +57,14 @@ HERE COMES THE MAIN THING HOW TO RUN THE FILE<br>
 ****IN MY CODE I HAD SAVED WITH ai_resume_app SO I WILL RUN IN THIS WAY****<br>
 <b>streamlit run ai_resume_app.py</b>
 the out put<br>
+
 ![Screenshot 2025-03-06 231105](https://github.com/user-attachments/assets/7cd9c761-6426-4b4d-bc8a-4cd6cbdfff6d)
+
 ![Screenshot 2025-03-06 231306](https://github.com/user-attachments/assets/e0fbae58-7e23-4952-bbf5-a44b0c11e235)
+
 ![Screenshot 2025-03-06 231330](https://github.com/user-attachments/assets/c4a3819f-9c97-4472-ab2b-27094a126a73)
+
 ![Screenshot 2025-03-06 231351](https://github.com/user-attachments/assets/0aed5333-4e8b-4b84-a663-577a0416870f)
+
 ![Screenshot 2025-03-06 231206](https://github.com/user-attachments/assets/6df37d63-0241-4a99-89b6-58e1cc697f33)
 
